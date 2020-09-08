@@ -1,0 +1,3 @@
+include ':markerview'
+include ':app'
+rootProject.name = "MarkerView"
