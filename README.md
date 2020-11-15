@@ -37,7 +37,7 @@ For a `MarkerView` with text:
 val config = MarkerConfig()
     .withColor(R.color.colorPrimaryDark)
     .withSize(70)
-    .withText("Z", android.R.color.white)
+    .withText('X', android.R.color.white)
     .withDraggableListener(listener)
 ```
 
